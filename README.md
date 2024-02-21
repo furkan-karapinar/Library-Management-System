@@ -1,5 +1,7 @@
 # Library Management System
-
+## Proje Hakkında
+Proje'nin demo dosyası yüklenmiştir. Projede kitap, kategori ve üye ekleyebilir, düzenleyebilir, listeleyebilir, kitap ödünç verebilir, ödünç verilen kitapları görebilir ve süresi gecikmiş iadeleri görebilirsiniz.
+Projeye ait bazı görüntüler aşağıda verilmiştir.
 ## Projeye Ait Bazı Görüntüler
 
 ![Login](https://github.com/furkan-karapinar/Library-Management-System/assets/159263067/e073eda5-c50d-4b03-893a-9ec36db0a0f1)
